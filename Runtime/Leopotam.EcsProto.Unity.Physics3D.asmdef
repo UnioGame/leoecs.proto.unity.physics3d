@@ -1,0 +1,18 @@
+{
+    "name": "Leopotam.EcsProto.Unity.Physics3D",
+    "rootNamespace": "Leopotam.EcsProto.Unity.Physics3D",
+    "references": [
+        "Leopotam.EcsProto",
+        "Leopotam.EcsProto.QoL",
+        "Leopotam.EcsProto.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

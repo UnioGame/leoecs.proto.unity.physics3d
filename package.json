@@ -1,0 +1,21 @@
+{
+    "name": "ru.leopotam.ecsproto.unity.physics3d",
+    "author": "Leopotam",
+    "displayName": "LeoECS Proto Physics3D Bindings",
+    "description": "LeoECS Proto Physics3D Bindings - поддержка событий Unity Physics3D в ECS-мире.",
+    "unity": "2021.3",
+    "version": "2025.9.4",
+    "keywords": [
+        "leoecs",
+        "proto",
+        "ecs",
+        "performance",
+        "unity",
+        "physics"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/ecsproto.unity.physics3d.git"
+    }
+}
